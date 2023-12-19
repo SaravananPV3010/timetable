@@ -122,6 +122,7 @@ ocument</title>
 </html>
 ```
 # OUPUT
-![Screenshot from 2023-12-18 19-17-58](https://github.com/SaravananPV3010/timetable/assets/139754526/43fdc368-fc96-4a13-aceb-898374eb17c4)
+![Screenshot 2023-12-19 234044](https://github.com/SaravananPV3010/timetable/assets/139754526/b3142e10-738a-4743-ae4b-2b568b9f5f44)
+
 
 
