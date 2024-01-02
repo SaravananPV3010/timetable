@@ -122,6 +122,8 @@ ocument</title>
 ```
 # OUPUT
 ![Screenshot 2023-12-19 234044](https://github.com/SaravananPV3010/timetable/assets/139754526/b3142e10-738a-4743-ae4b-2b568b9f5f44)
+# Result 
+The website to display ypur semester timetable is created.
 
 
 
