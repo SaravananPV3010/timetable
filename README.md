@@ -12,7 +12,6 @@ Add header row using th tag
 Add your timetable
 ### STEP 4
 Execute the program
-
 # CODE
 ```
 <!DOCTYPE html>
